@@ -1,5 +1,8 @@
 # AI-Powered Technical Stock Analysis Dashboard
 
+This project is an innovative extension and enhancement of the Deep Charts: Build an Advanced AI-Powered Technical Analysis Stock Dashboard with Google Gemini 2.0 Flash tutorial. The original tutorial demonstrates how to use Streamlit, yfinance, Plotly, and Google Gemini 2.0 to build an AI-powered technical analysis dashboard for stocks.
+Key
+
 ## Features
 
 - **Multi-Stock Analysis**: Analyze multiple stocks simultaneously with tabbed interface
